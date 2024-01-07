@@ -1,2 +1,2 @@
 # NewSance
-A Live News App using React-Native
+## A Live News App build in React-Native.
